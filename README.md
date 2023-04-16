@@ -19,3 +19,5 @@ Trying to solve 2-3 problems daily!
 
 ## Dynamic Programming
 
+## Graph Algorithms
+
