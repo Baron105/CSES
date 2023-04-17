@@ -10,6 +10,9 @@ Trying to solve 2-3 problems daily!
 1. [Two Knights](https://cses.fi/problemset/task/1070) - [Solution](Intro/1072.cpp) <br>
 1. [Creating Strings](https://cses.fi/problemset/task/1622) - [Solution](Intro/1622.cpp) <br>
 1. [Gray Code](https://cses.fi/problemset/task/2205) - [Solution](Intro/2205.cpp) <br>
+1. [Apple Division](https://cses.fi/problemset/task/1623) - [Solution](Intro/1623.cpp) <br>
+1. [Two Sets](https://cses.fi/problemset/task/1092) - [Solution](Intro/1092.cpp) <br>
+
 ## Sorting and Searching
 1. [Stick Lengths](https://cses.fi/problemset/task/1074) - [Solution](Sorting/1074.cpp) <br>
 1. [Apartments](https://cses.fi/problemset/task/1084) - [Solution](Sorting/1084.cpp) <br>
@@ -18,6 +21,11 @@ Trying to solve 2-3 problems daily!
 1. [Missing Coin Sum](https://cses.fi/problemset/task/2183) - [Solution](Sorting/2183.cpp) <br>
 
 ## Dynamic Programming
+1. [Dice Combinations](https://cses.fi/problemset/task/1633) - [Solution](DP/1633.cpp) <br>
 
 ## Graph Algorithms
+1. [Counting Rooms](https://cses.fi/problemset/task/1192) - [Solution](Graph/1192.cpp) <br>
 
+## Mathematics
+1. [Exponentiation](https://cses.fi/problemset/task/1095) - [Solution](Math/1095.cpp) <br>
+1. [Common Divisors](https://cses.fi/problemset/task/1081) - [Solution](Math/1081.cpp) <br>
