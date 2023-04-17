@@ -3,6 +3,7 @@ This repository contains solutions to the CSES problemset and the book by Antti 
 Link to the problemset: https://cses.fi/problemset/
 <br><br>
 Trying to solve 2-3 problems daily!
+<br> Primary Language used is C++ (for now).
 
 ## Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068) - [Solution](Intro/1068.cpp) <br>
