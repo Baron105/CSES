@@ -27,6 +27,7 @@ Trying to solve 2-3 problems daily!
 ## Dynamic Programming
 1. [Dice Combinations](https://cses.fi/problemset/task/1633) - [Solution](DP/1633.cpp) <br>
 1. [Minimizing Coins](https://cses.fi/problemset/task/1634) - [Solution](DP/1634.cpp) <br>
+1. [Coin Combinations I](https://cses.fi/problemset/task/1635) - [Solution](DP/1635.cpp) <br>
 
 ## Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192) - [Solution](Graph/1192.cpp) <br>
