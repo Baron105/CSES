@@ -5,6 +5,10 @@ Link to the problemset: https://cses.fi/problemset/
 Trying to solve 2-3 problems daily!
 
 ## Introductory Problems
+1. [Weird Algorithm](https://cses.fi/problemset/task/1068) - [Solution](Intro/1068.cpp) <br>
+1. [Missing Number](https://cses.fi/problemset/task/1083) - [Solution](Intro/1083.cpp) <br>
+1. [Repetitions](https://cses.fi/problemset/task/1069) - [Solution](Intro/1069.cpp) <br>
+1. [Increasing Array](https://cses.fi/problemset/task/1094) - [Solution](Intro/1094.cpp) <br>
 1. [Permutations](https://cses.fi/problemset/task/1070) - [Solution](Intro/1070.cpp) <br>
 1. [Number Spiral](https://cses.fi/problemset/task/1071) - [Solution](Intro/1071.cpp) <br>
 1. [Two Knights](https://cses.fi/problemset/task/1070) - [Solution](Intro/1072.cpp) <br>
