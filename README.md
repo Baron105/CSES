@@ -26,7 +26,8 @@ Trying to solve 2-3 problems daily!
 1. [Missing Coin Sum](https://cses.fi/problemset/task/2183) - [Solution](Sorting/2183.cpp) <br>
 1. [Restaurant Customers](https://cses.fi/problemset/task/1619) - [Solution](Sorting/1619.cpp) <br>
 1. [Concert Tickets](https://cses.fi/problemset/task/1091) - [Solution](Sorting/1091.cpp) <br>
-
+1. [Movie Festival](https://cses.fi/problemset/task/1629) - [Solution](Sorting/1629.cpp) <br>
+1. [Sum of Two Values](https://cses.fi/problemset/task/1640) - [Solution](Sorting/1640.cpp) <br>
 ## Dynamic Programming
 1. [Dice Combinations](https://cses.fi/problemset/task/1633) - [Solution](DP/1633.cpp) <br>
 1. [Minimizing Coins](https://cses.fi/problemset/task/1634) - [Solution](DP/1634.cpp) <br>
