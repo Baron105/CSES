@@ -30,11 +30,17 @@ Trying to solve 2-3 problems daily!
 1. [Concert Tickets](https://cses.fi/problemset/task/1091) - [Solution](Sorting/1091.cpp) <br>
 1. [Movie Festival](https://cses.fi/problemset/task/1629) - [Solution](Sorting/1629.cpp) <br>
 1. [Sum of Two Values](https://cses.fi/problemset/task/1640) - [Solution](Sorting/1640.cpp) <br>
+1. [Collecting Numbers](https://cses.fi/problemset/task/2216) - [Solution](Sorting/2216.cpp) <br>
+1. [Towers](https://cses.fi/problemset/task/1073) - [Solution](Sorting/1073.cpp) <br>
+1. [Playlist](https://cses.fi/problemset/task/1141) - [Solution](Sorting/1141.cpp) <br>
+
 ## Dynamic Programming
+1. [Factory Machines](https://cses.fi/problemset/task/1620) - [Solution](DP/1620.cpp) <br>
 1. [Dice Combinations](https://cses.fi/problemset/task/1633) - [Solution](DP/1633.cpp) <br>
 1. [Minimizing Coins](https://cses.fi/problemset/task/1634) - [Solution](DP/1634.cpp) <br>
 1. [Coin Combinations I](https://cses.fi/problemset/task/1635) - [Solution](DP/1635.cpp) <br>
 1. [Coin Combinations II](https://cses.fi/problemset/task/1636) - [Solution](DP/1636.cpp) <br>
+1. [Removing Digits](https://cses.fi/problemset/task/1637) - [Solution](DP/1637.cpp) <br>
 
 ## Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192) - [Solution](Graph/1192.cpp) <br>
@@ -42,3 +48,7 @@ Trying to solve 2-3 problems daily!
 ## Mathematics
 1. [Exponentiation](https://cses.fi/problemset/task/1095) - [Solution](Math/1095.cpp) <br>
 1. [Common Divisors](https://cses.fi/problemset/task/1081) - [Solution](Math/1081.cpp) <br>
+
+## Range Queries
+1. [Static Range Sum Queries](https://cses.fi/problemset/task/1646) - [Solution](Range/1646.cpp) <br>
+1. [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) - [Solution](Range/1647.cpp) <br>
