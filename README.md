@@ -2,8 +2,7 @@
 This repository contains solutions to the CSES problemset and the book by Antti Laaksonen on Competitive Programming. <br>
 Link to the problemset: https://cses.fi/problemset/
 <br><br>
-Trying to solve 2-3 problems daily!
-<br> Primary Language used is C++ (for now).
+<br> Primary Languages used are C++/Python.
 
 ## Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068) - [Solution](Intro/1068.cpp) <br>
