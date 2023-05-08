@@ -19,6 +19,10 @@ Trying to solve 2-3 problems daily!
 1. [Two Sets](https://cses.fi/problemset/task/1092) - [Solution](Intro/1092.cpp) <br>
 1. [Tower of Hanoi](https://cses.fi/problemset/task/2165) - [Solution](Intro/2165.cpp) <br>
 1. [Digit Queries](https://cses.fi/problemset/task/2431) - [Solution](Intro/2431.py) <br>
+1. [Coin Piles](https://cses.fi/problemset/task/1754) - [Solution](Intro/1754.cpp) <br>
+1. [Palindrome Reorder](https://cses.fi/problemset/task/1755) - [Solution](Intro/1755.cpp) <br>
+1. [Trailing Zeros](https://cses.fi/problemset/task/1618) - [Solution](Intro/1618.cpp) <br>
+1. [Bit Strings](https://cses.fi/problemset/task/1617) - [Solution](Intro/1617.cpp) <br>
 
 ## Sorting and Searching
 1. [Stick Lengths](https://cses.fi/problemset/task/1074) - [Solution](Sorting/1074.cpp) <br>
