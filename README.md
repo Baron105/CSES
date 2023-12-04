@@ -38,6 +38,8 @@ This repository contains solutions to the CSES problemset and the book by Antti 
 1. [Collecting Numbers](https://cses.fi/problemset/task/2216) - [Solution](Sorting/2216.cpp)
 1. [Towers](https://cses.fi/problemset/task/1073) - [Solution](Sorting/1073.cpp)
 1. [Playlist](https://cses.fi/problemset/task/1141) - [Solution](Sorting/1141.cpp)
+1. [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) - [Solution](Sorting/1643.cpp)
+1. [Tasks and Deadlines](https://cses.fi/problemset/task/1630) - [Solution](Sorting/1630.cpp)
 
 ## Dynamic Programming
 
