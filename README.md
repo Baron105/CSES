@@ -50,6 +50,7 @@ This repository contains solutions to the CSES problemset and the book by Antti 
 1. [Coin Combinations I](https://cses.fi/problemset/task/1635) - [Solution](DP/1635.cpp)
 1. [Coin Combinations II](https://cses.fi/problemset/task/1636) - [Solution](DP/1636.cpp)
 1. [Removing Digits](https://cses.fi/problemset/task/1637) - [Solution](DP/1637.cpp)
+1. [Money Sums](https://cses.fi/problemset/task/1745) - [Solution](DP/1745.cpp)
 
 ## Graph Algorithms
 
